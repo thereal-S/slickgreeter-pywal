@@ -36,3 +36,5 @@ it's wallpaper from.
 ```
 slick-pywal
 ```
+
+.
